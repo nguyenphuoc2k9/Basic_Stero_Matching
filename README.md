@@ -49,7 +49,7 @@ Hướng dẫn Cài đặt
 
     Copy code
 ```
-    git clone https://github.com/yourusername/image-depth-estimation.git
+    git clone https://github.com/nguyenphuoc2k9/Basic_Stero_Matching
     
     cd image-depth-estimation
 ```
