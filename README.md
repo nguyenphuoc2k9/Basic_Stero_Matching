@@ -18,7 +18,6 @@ Cấu trúc Dự án
 
 Dự án bao gồm các thư mục và tệp tin chính như sau:
 
--   `src/`: Chứa các script Python để triển khai các thuật toán.
 -   `data/`: Thư mục lưu trữ các cặp ảnh stereo đầu vào.
 -   `results/`: Thư mục lưu trữ các bản đồ độ sâu được tạo ra.
 -   `README.md`: Tệp tài liệu này.
